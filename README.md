@@ -12,6 +12,6 @@ high school and college, but starting in 2023, I will be creating and posting mo
 
 - 🌱 I’m currently learning Javascript, node.js, data structures and algorithms.
 - 💬 Ask me about anything!
-- 📫 How to reach me: @aaronkoichi on [Discord](https://discord.com/).
+- 📫 How to reach me: @aaronkoichi on [Discord](https://discord.com/) and [LinkedIn](https://www.linkedin.com/in/zhe-tse-lee/).
 
 
