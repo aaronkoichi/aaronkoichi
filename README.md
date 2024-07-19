@@ -26,6 +26,8 @@ high school and college, but starting in 2023, I will be creating and posting mo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 
 ###
