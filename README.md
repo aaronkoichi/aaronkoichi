@@ -8,7 +8,6 @@
 I'm Aaron Lee, also known as Aaron Koichi. I started coding at the age of 16. Since then, I have made little to no progress on creating projects outside of 
 high school and college, but starting in 2023, I will be creating and posting more personal projects on GitHub for self-improvement.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronkoichi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronkoichi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
