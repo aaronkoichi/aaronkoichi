@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **aaronkoichi/aaronkoichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,8 +49,10 @@ high school and college, but starting in 2023, I will be creating and posting mo
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/l6rp3r7cg3ihdczthueabnzd7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l6rp3r7cg3ihdczthueabnzd7&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
