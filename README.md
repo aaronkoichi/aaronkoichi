@@ -12,6 +12,10 @@ high school and college, but starting in 2023, I will be creating and posting mo
 
 - 🌱 I’m currently learning Javascript, node.js, data structures and algorithms.
 - 💬 Ask me about anything!
-- 📫 How to reach me: @aaronkoichi on [Discord](https://discord.com/) and [LinkedIn](https://www.linkedin.com/in/zhe-tse-lee/).
+- 📫 You can reach out to me at: @aaronkoichi on [Discord](https://discord.com/) and [LinkedIn](https://www.linkedin.com/in/zhe-tse-lee/).
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronkoichi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
