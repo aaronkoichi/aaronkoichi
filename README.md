@@ -51,7 +51,6 @@ high school and college, but starting in 2023, I will be creating and posting mo
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronkoichi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <a href="https://open.spotify.com/user/l6rp3r7cg3ihdczthueabnzd7">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=l6rp3r7cg3ihdczthueabnzd7&count=1" alt="Spotify recently played"  />
   </a>
