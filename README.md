@@ -30,7 +30,7 @@ high school and college, but starting in 2023, I will be creating and posting mo
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/2suqwdN.jpeg"  />
+<img align="right" height="250" src="https://i.imgur.com/2suqwdN.jpeg"  />
 
 ###
 
