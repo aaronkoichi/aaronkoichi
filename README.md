@@ -9,7 +9,8 @@
 high school and college, but starting in 2023, I will be creating and posting more personal projects on GitHub for self-improvement.
 <div align="center"> -->
 ![Header Image](header.png)
-
+  <p>I'm Aaron Lee, also known as Aaron Koichi. I started coding at the age of 16. Since then, I have made little to no progress on creating projects outside of 
+high school and college, but starting in 2023, I will be creating and posting more personal projects on GitHub for self-improvement.</p>
 #
 
 <div align="center">
