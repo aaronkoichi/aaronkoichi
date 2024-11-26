@@ -39,7 +39,6 @@ high school and college, but starting in 2023, I will be creating and posting mo
 ###
 
 <div align="center">
-  [![zlee's 42 stats](https://badge.mediaplus.ma/darkgray/zlee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   <a href="https://www.instagram.com/aaronkoichi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
