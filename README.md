@@ -54,6 +54,7 @@ high school and college, but starting in 2023, I will be creating and posting mo
 ###
 
 <div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zlee?1337Badge=off&UM6P=off" alt="zlee's 42 stats" /></a>
 </div>
 
 ###
