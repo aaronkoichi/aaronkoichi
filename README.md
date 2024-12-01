@@ -9,24 +9,16 @@
 high school and college, but starting in 2023, I will be creating and posting more personal projects on GitHub for self-improvement.
 <div align="center"> -->
 ![Header Image](header.png)
-<br>
-<br>
+
+#
+
 <ul>
   <li><h3>👨‍💻 &nbsp; Started Coding at age of 16.</h3></li>
   <li><h3>🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
   </ul>
   <br>
   <br>
-  <a href="https://www.instagram.com/aaronkoichi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.discord.com/users/266930550818734080" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zhe-tse-lee/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+  
 
 #
 
@@ -46,6 +38,17 @@ high school and college, but starting in 2023, I will be creating and posting mo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+</div>
+<div align="center">
+<a href="https://www.instagram.com/aaronkoichi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.discord.com/users/266930550818734080" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zhe-tse-lee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
