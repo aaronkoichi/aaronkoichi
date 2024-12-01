@@ -10,6 +10,7 @@ high school and college, but starting in 2023, I will be creating and posting mo
 <div align="center"> -->
 ![Header Image](header.png)
 <br>
+<br>
   👨‍💻 &nbsp; Started Coding at age of 16.\
   🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.\
   <br>
