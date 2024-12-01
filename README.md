@@ -33,8 +33,19 @@ high school and college, but starting in 2023, I will be creating and posting mo
 </div>
 
 ###
-<div align="right">
+
 <img align="right" height="250" src="https://i.imgur.com/2suqwdN.jpeg"  />
+
+
+###
+
+###
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zlee?1337Badge=off&UM6P=off" alt="zlee's 42 stats" /></a>
+</div>
+<div align="center">
+
 
   <a href="https://www.instagram.com/aaronkoichi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,15 +57,4 @@ high school and college, but starting in 2023, I will be creating and posting mo
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-
-
-###
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zlee?1337Badge=off&UM6P=off" alt="zlee's 42 stats" /></a>
-</div>
-
 ###
