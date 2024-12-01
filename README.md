@@ -16,9 +16,6 @@ high school and college, but starting in 2023, I will be creating and posting mo
   <li><h3>👨‍💻 &nbsp; Started Coding at age of 16.</h3></li>
   <li><h3>🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
   </ul>
-  <br>
-  <br>
-  
 
 #
 
