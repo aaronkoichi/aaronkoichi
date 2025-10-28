@@ -8,12 +8,12 @@
 <!--I'm Aaron Lee, also known as Aaron Koichi. I started coding at the age of 16. Since then, I have made little to no progress on creating projects outside of 
 high school and college, but starting in 2023, I will be creating and posting more personal projects on GitHub for self-improvement.
 <div align="center"> -->
-#
+
 <ul>
   <li><h3>👨‍💻 &nbsp; Started Coding at age of 16.</h3></li>
   <li><h3>🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
   </ul>
-#
+
 
 <!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
