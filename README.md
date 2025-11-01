@@ -45,12 +45,9 @@ high school and college, but starting in 2023, I will be creating and posting mo
 </div> -->
 
 ###
-
 <img align="center" height="500" src="https://i.imgur.com/2suqwdN.jpeg"  />
-
-
+<img align="center" height="500" src="./github-header.png"  />
 ###
-
 ###
 <!--
 <div align="center">
