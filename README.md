@@ -45,8 +45,8 @@ high school and college, but starting in 2023, I will be creating and posting mo
 </div> -->
 
 ###
-<img align="center" height="500" src="./github-header.png"  />
-<img align="center" height="500" src="https://i.imgur.com/2suqwdN.jpeg"  />
+<img align="center" width="400" src="./github-header.png"  />
+<img align="center" width="400" src="https://i.imgur.com/2suqwdN.jpeg"  />
 <!--
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zlee?1337Badge=off&UM6P=off" alt="zlee's 42 stats" /></a>
