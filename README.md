@@ -23,18 +23,16 @@ About Me
 </tr>
 </table>
 
-<h2>Currently Working On:</h2>
-<ul>
-<li>Final Year Project: AML Database and Detection Application</li>
-</ul>
+<h3>Currently Working On: <span><a href="https://aml.aaronkoichi.com/">Final Year Project</span></h3>
 <h2>Tech Stack</h2>
 <div style="padding: 10%;">
-<img src="./c.svg" width="5%" style="padding: 5%;">
-<img src="./django.svg" width="5%" style="padding: 5%;">
-<img src="./python.svg" width="5%" style="padding: 5%;">
-<img src="./unrealengine.svg" width="5%" style="padding: 5%;">
-<img src="./vscode.svg" width="5%" style="padding: 5%;">
-<img src="./neovim.svg" width="5%" style="padding: 5%;">
+
+``` console
+Tech Stacks:
+---------------
+💻 Web Development : Python, Django, Flask, Tailwind CSS, JavaScript 💻
+🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
+```
 </div>
 <table>
 <tr>
