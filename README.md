@@ -46,13 +46,18 @@ high school and college, but starting in 2023, I will be creating and posting mo
 <li><h3>👨‍💻 &nbsp; Started Coding at age of 16.</h3></li>
 <li><h3>🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
 </ul>
-<table>
-  <tr>
-    <td><img src="./Screenshot_51.png" height="300" /></td>
-    <td><img src="./Screenshot_54.png" height="300" /></td>
-    <td><img src="./IMG_8850.png" height="300" /></td>
-  </tr>
-</table>
+<!-- <table> -->
+<!--   <tr> -->
+<!--     <td><img src="./Screenshot_51.png" height="300" /></td> -->
+<!--     <td><img src="./Screenshot_54.png" height="300" /></td> -->
+<!--     <td><img src="./IMG_8850.png" height="300" /></td> -->
+<!--   </tr> -->
+<!-- </table> -->
+<div style="display: flex; justify-content: center;">
+  <img src="./Screenshot_51.png" height="300" style="margin: 5px;" />
+  <img src="./Screenshot_54.png" height="300" style="margin: 5px;" />
+  <img src="./IMG_8850.png" height="300" style="margin: 5px;" />
+</div>
 <!-- <img align="center" width="400" src="https://i.imgur.com/2suqwdN.jpeg"  /> -->
 <!--
 <div align="center">
