@@ -23,11 +23,10 @@ About Me
 </tr>
 </table>
 
-<h3>Currently Working On: <span><a href="https://aml.aaronkoichi.com/">Final Year Project</span></h3>
-<h2>Tech Stack</h2>
+<h3>⚡Currently Working On --> <span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
-``` console
+``` 
 Tech Stacks:
 ---------------
 💻 Web Development : Python, Django, Flask, Tailwind CSS, JavaScript 💻
