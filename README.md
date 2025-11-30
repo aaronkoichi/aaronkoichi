@@ -30,10 +30,11 @@ About Me
 <h2>Tech Stack</h2>
 <div style="padding: 10%;">
 <img src="./c.svg" width="5%" style="padding: 5%;">
-<img src="./c.svg" width="5%" style="padding: 5%;">
-<img src="./c.svg" width="5%" style="padding: 5%;">
-<img src="./c.svg" width="5%" style="padding: 5%;">
-<img src="./c.svg" width="5%" style="padding: 5%;">
+<img src="./django.svg" width="5%" style="padding: 5%;">
+<img src="./python.svg" width="5%" style="padding: 5%;">
+<img src="./unrealengine.svg" width="5%" style="padding: 5%;">
+<img src="./vscode.svg" width="5%" style="padding: 5%;">
+<img src="./neovim.svg" width="5%" style="padding: 5%;">
 </div>
 <table>
 <tr>
