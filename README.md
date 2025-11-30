@@ -5,10 +5,10 @@
 
 <table border="0">
 <tr> 
-<td width="150px"  valign="middle" align="center">
-<img  width="150px" src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png">
+<td width="40%"  valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png">
 </td>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 ``` console
 About Me
