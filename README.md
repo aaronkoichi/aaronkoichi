@@ -23,6 +23,10 @@ About Me
 </tr>
 </table>
 
+<h2>Currently Working On:</h2>
+<ul>
+<li>Final Year Project: AML Database and Detection Application</li>
+</ul>
 <table>
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
