@@ -53,10 +53,12 @@ high school and college, but starting in 2023, I will be creating and posting mo
     <li><h3>👨‍💻 &nbsp; </h3></li>
     <li><h3> &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
 </ul> -->
-```
+
+``` console
 👨‍💻 Started Coding at age of 16.
 🎓 Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.
 ```
+
 <!-- <div style="display: flex; justify-content: center; align-items: center;"> -->
 <!--   <img src="./Screenshot_51.png" height="300" style="margin: 5px;" /> -->
 <!--   <img src="./Screenshot_54.png" height="300" style="margin: 5px;" /> -->
