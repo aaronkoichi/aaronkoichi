@@ -46,9 +46,9 @@ high school and college, but starting in 2023, I will be creating and posting mo
 <li><h3>👨‍💻 &nbsp; Started Coding at age of 16.</h3></li>
 <li><h3>🎓 &nbsp; Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.</h3></li>
 </ul>
-<img align="center" height="300" src="./Screenshot_51.png"  />
-<img align="center" height="300" src="./Screenshot_54.png"  />
-<img align="center" height="300" src="./IMG_8850.png"  />
+<img height="300" src="./Screenshot_51.png"  />
+<img <!-- align="center" --> height="300" src="./Screenshot_54.png"  />
+<img <!-- align="center" --> height="300" src="./IMG_8850.png"  />
 <!-- <img align="center" width="400" src="https://i.imgur.com/2suqwdN.jpeg"  /> -->
 <!--
 <div align="center">
