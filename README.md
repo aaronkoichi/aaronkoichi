@@ -41,12 +41,12 @@ high school and college, but starting in 2023, I will be creating and posting mo
 </div> -->
 
 ###
-<img align="center" width="1000" src="./github-header.png"  />
+<img align="center" width="1000" src="./github-header.webp"  />
 <table>
   <tr>
-    <td><img src="./Screenshot_51.png" height="300" /></td>
-    <td><img src="./Screenshot_54.png" height="300" /></td>
-    <td><img src="./IMG_8850.png" height="300" /></td>
+    <td><img src="./Screenshot_51.webp" height="300" /></td>
+    <td><img src="./Screenshot_54.webp" height="300" /></td>
+    <td><img src="./IMG_8850.webp" height="300" /></td>
   </tr>
 </table>
 <ul>
