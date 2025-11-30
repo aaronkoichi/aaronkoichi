@@ -17,7 +17,7 @@ About Me
 👨‍💻 Started Coding at age of 16.
 🌱 Passionate working on Game and Web Development projects.
 💪 Proficient and still learning C and C++.
-👾 Enjoys singleplayer / rhythm / fighting games 👾            
+👾 Enjoys Single-Player / Rhythm / Fighting games 👾            
 ```
 </td>
 </tr>
@@ -33,7 +33,7 @@ Tech Stacks:
 🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
 ```
 </div>
-<table>
+<table align="center" valign="center">
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
 <td><img src="./Screenshot_54.webp" height="300" /></td>
