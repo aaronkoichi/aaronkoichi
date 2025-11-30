@@ -53,7 +53,7 @@ high school and college, but starting in 2023, I will be creating and posting mo
 <!--     <td><img src="./IMG_8850.png" height="300" /></td> -->
 <!--   </tr> -->
 <!-- </table> -->
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="./Screenshot_51.png" height="300" style="margin: 5px;" />
   <img src="./Screenshot_54.png" height="300" style="margin: 5px;" />
   <img src="./IMG_8850.png" height="300" style="margin: 5px;" />
