@@ -27,6 +27,10 @@ About Me
 <ul>
 <li>Final Year Project: AML Database and Detection Application</li>
 </ul>
+<h2>Tech Stack</h2>
+<div>
+<img src="./c.svg" width="5%">
+</div>
 <table>
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
