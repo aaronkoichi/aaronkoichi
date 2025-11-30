@@ -5,7 +5,7 @@
 
 <table border="0">
 <tr> 
-<td width="35%" valign="middle" align="center">
+<td width="35%" min-width="100px"; valign="middle" align="center">
 <img src="./KOI.png">
 </td>
 <td width="65%" valign="middle">
