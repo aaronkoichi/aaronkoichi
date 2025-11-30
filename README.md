@@ -13,8 +13,11 @@
 ``` console
 About Me
 --------------------------------
+🎓 University / Campus : Sunway University | 42 Kuala Lumpur (Sunway Education Group)
 👨‍💻 Started Coding at age of 16.
-🎓 Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.
+🌱 Passionate working on Game and Web Development projects.
+💪 Proficient and still learning C and C++.
+👾 Enjoys singleplayer / rhythm / fighting games 👾            
 ```
 </td>
 </tr>
