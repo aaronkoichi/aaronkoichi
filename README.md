@@ -6,7 +6,7 @@
 <table border="0">
 <tr> 
 <td width="35%"  valign="middle" align="center">
-<img style="min-width: 100px;" src="./KOI.png">
+<img width="150px" src="./KOI.png">
 </td>
 <td width="65%" valign="middle">
 
