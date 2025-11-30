@@ -9,12 +9,12 @@
 <img src="./KOI.png">
 </td>
 <td width="65%" valign="middle">
+
 ``` console
 About Me
 --------------------------------
 👨‍💻 Started Coding at age of 16.
 🎓 Currently studying Computer Science in Sunway University and a Cadet at 42 Kuala Lumpur.
-            
 ```
 </td>
 </tr>
