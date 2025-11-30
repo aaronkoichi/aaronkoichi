@@ -23,7 +23,7 @@ About Me
 </tr>
 </table>
 
-<h3>⚡Currently Working On --> <span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
+<h3>Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
 ``` 
