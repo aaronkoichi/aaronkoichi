@@ -14,6 +14,7 @@
 About Me
 --------------------------------
 🎓 University / Campus : Sunway University | 42 Kuala Lumpur (Sunway Education Group)
+💼 Work : Part-Time Coding Teacher
 👨‍💻 Started Coding at age of 16.
 🌱 Passionate working on Game and Web Development projects.
 💪 Proficient and still learning C and C++.
