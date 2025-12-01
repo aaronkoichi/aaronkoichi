@@ -32,6 +32,10 @@ Tech Stacks:
 ---------------
 💻 Web Development : Python, Django, Flask, Tailwind CSS, JavaScript 💻
 🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
+
+Connect:
+---------------
+X / Twitter: @dbldtst 
 ```
 </div>
 <table align="center" valign="center">
