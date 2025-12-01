@@ -16,7 +16,7 @@ X / Twitter: @dbldtst
 ```
 </div>
 </td>
-<td width="60%" valign="middle">
+<td valign="middle">
 
 ``` console
 About Me
