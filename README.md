@@ -35,19 +35,15 @@ About Me
 <h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
-<table width="100%" align="center">
-<tr width="100%">
-<td width="100%" valign="middle" align="center">
+<div align="center">
 
 ``` 
 Tech Stacks:
 ---------------
 💻 Web Development : Python, Django, Flask, Tailwind CSS, JavaScript 💻
 🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
-
 ```
-</td>
-</tr>
+</div>
 <table align="center" valign="center">
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
