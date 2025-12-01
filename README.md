@@ -12,7 +12,8 @@
 ```
 Connect:
 ---------------
-X / Twitter: @dbldtst 
+X / Twitter: @dbldtst
+Email: dbldtst@gmail.com
 ```
 </div>
 </td>
