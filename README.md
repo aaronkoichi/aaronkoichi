@@ -28,7 +28,7 @@ About Me
 💪 Proficient and still learning C and C++.
 👾 Enjoys Single-Player / Rhythm / Fighting games 👾            
 ```
-<h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
+<h3 align="center" valign="center">Currently Working On --> ⚡<span>Final Year Project</span>⚡</h3>
 <div align="center">
 
 ``` 
