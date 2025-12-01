@@ -27,6 +27,10 @@ About Me
 <h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 ``` 
 Tech Stacks:
 ---------------
@@ -37,7 +41,11 @@ Connect:
 ---------------
 X / Twitter: @dbldtst 
 ```
-</div>
+</td>
+<td width="30%" valign="middle">
+<img src="matcha.jpg">
+</td>
+</tr>
 <table align="center" valign="center">
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
