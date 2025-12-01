@@ -28,13 +28,7 @@ About Me
 💪 Proficient and still learning C and C++.
 👾 Enjoys Single-Player / Rhythm / Fighting games 👾            
 ```
-</td>
-</tr>
-</table>
-
 <h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
-<div style="padding: 10%;">
-
 <div align="center">
 
 ``` 
@@ -44,6 +38,12 @@ Tech Stacks:
 🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
 ```
 </div>
+</td>
+</tr>
+</table>
+
+<div style="padding: 10%;">
+
 <table align="center" valign="center">
 <tr>
 <td><img src="./Screenshot_51.webp" height="300" /></td>
