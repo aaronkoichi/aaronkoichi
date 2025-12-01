@@ -6,7 +6,15 @@
 <table border="0">
 <tr> 
 <td width="30%"  valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png">
+<img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png"> <br />
+<div align="center">
+
+```
+Connect:
+---------------
+X / Twitter: @dbldtst 
+```
+</div>
 </td>
 <td width="60%" valign="middle">
 
@@ -37,9 +45,6 @@ Tech Stacks:
 💻 Web Development : Python, Django, Flask, Tailwind CSS, JavaScript 💻
 🎮 Game Development / OOP : Unreal Engine, C, C++, Visual Studio, Java 🎮
 
-Connect:
----------------
-X / Twitter: @dbldtst 
 ```
 </td>
 </tr>
