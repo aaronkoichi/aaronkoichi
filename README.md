@@ -29,7 +29,7 @@ About Me
 
 <table>
 <tr>
-<td width="55%" valign="middle" align="center">
+<td width="100%" valign="middle" align="center">
 
 ``` 
 Tech Stacks:
@@ -41,9 +41,6 @@ Connect:
 ---------------
 X / Twitter: @dbldtst 
 ```
-</td>
-<td width="45%" valign="middle">
-<img src="matcha.jpg">
 </td>
 </tr>
 <table align="center" valign="center">
