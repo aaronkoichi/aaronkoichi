@@ -5,10 +5,10 @@
 
 <table border="0">
 <tr> 
-<td width="40%"  valign="middle" align="center">
+<td width="30%"  valign="middle" align="center">
 <img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png">
 </td>
-<td width="60%" valign="middle">
+<td width="70%" valign="middle">
 
 ``` console
 About Me
@@ -27,7 +27,7 @@ About Me
 <h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="middle" align="center">
 
