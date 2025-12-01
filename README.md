@@ -8,7 +8,7 @@
 <td width="30%"  valign="middle" align="center">
 <img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png">
 </td>
-<td width="70%" valign="middle">
+<td width="60%" valign="middle">
 
 ``` console
 About Me
@@ -27,8 +27,8 @@ About Me
 <h3 align="center" valign="center">Currently Working On --> ⚡<span><a href="https://aml.aaronkoichi.com/">Final Year Project</span>⚡</h3>
 <div style="padding: 10%;">
 
-<table width="100%">
-<tr>
+<table width="100%" align="center">
+<tr width="100%">
 <td width="100%" valign="middle" align="center">
 
 ``` 
