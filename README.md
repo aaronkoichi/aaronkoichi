@@ -7,7 +7,7 @@
 <tr> 
 <td width="30%"  valign="middle" align="center">
 <img src="https://raw.githubusercontent.com/aaronkoichi/aaronkoichi/refs/heads/main/KOI.png"> <br />
-<div align="center">
+<div align="left">
 
 ```
  ____________
