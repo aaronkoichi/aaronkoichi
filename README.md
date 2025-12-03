@@ -22,7 +22,7 @@ X (Twitter) : @dbldtst
 About Me
 --------------------------------
 🎓 University / Campus : Sunway University | 42KL
-💼 Work : Part-Time Coding Teacher
+💼 Work : 🤔🤔🤔
 👨‍💻 Started Coding at age of 16.
 🌱 Passionate working on Game and Web Development projects.
 💪 Proficient and still learning C and C++.
