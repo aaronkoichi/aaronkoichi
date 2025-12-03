@@ -10,10 +10,14 @@
 <div align="center">
 
 ```
-Connect:
----------------
-X / Twitter: @dbldtst
-Email: dbldtst@gmail.com
+ ____________
+< uhhhh..... >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 </div>
 </td>
