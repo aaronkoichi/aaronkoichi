@@ -46,7 +46,7 @@ Tech Stacks:
 
 <table align="center" valign="center">
 <tr>
-<td><img src="./Screenshot_51.webp" height="300" /></td>
+<td><img src="./waguri.webp" height="300" /></td>
 <td><img src="./Screenshot_54.webp" height="300" /></td>
 <td><img src="./IMG_8850.webp" height="300" /></td>
 </tr>
