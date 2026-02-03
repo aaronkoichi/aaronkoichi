@@ -22,13 +22,13 @@ X (Twitter) : @dbldtst
 About Me
 --------------------------------
 🎓 University / Campus : Sunway University | 42KL
-💼 Work : 🤔🤔🤔
+💼 Work : Gane Engineer
 👨‍💻 Started Coding at age of 16.
 🌱 Passionate working on Game and Web Development projects.
 💪 Proficient and still learning C and C++.
 👾 Enjoys Single-Player / Rhythm / Fighting games 👾            
 ```
-<h3 align="center" valign="center">Currently Working On --> ⚡<span>TBD</span>⚡</h3>
+<h3 align="center" valign="center">Currently Working On --> 😴😴😴</h3>
 <div align="center">
 
 ``` 
