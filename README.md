@@ -1,1 +1,1 @@
-Moved to https://git.koichi.top/
+All projects are now moved to https://git.koichi.top/
